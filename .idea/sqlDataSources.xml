@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="6192ef81-d5ab-4f3f-a060-26ec1730de55" name="jaxrs@localhost Mapping">
+      <data-sources db="77f1810a-e8f8-48f4-b2f7-648cf451ee0d" />
+      <scope>
+        <node kind="database" qname="jaxrs" />
+      </scope>
+    </mapping>
+  </component>
+</project>
